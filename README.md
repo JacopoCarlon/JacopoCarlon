@@ -12,7 +12,7 @@
     github-readme-stats-nine-iota-47.vercel.app
     <img  src="https://github-readme-stats-nine-iota-47.vercel.app/api?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=33" />
   -->
-    <img  src="https://github-readme-stats-nine-iota-47.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=33" />
+    <img  src="https://github-readme-stats-nine-iota-47.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=19&hide=Jupyter%20Notebook" />
 </div> 
 
 ###
