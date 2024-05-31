@@ -1,3 +1,7 @@
+- general vercel guide for deployment and token generation
+https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s
+
+
 - count private languages : 
 --- &count_private=true 
 --- token for repos !!!
@@ -11,10 +15,31 @@ https://github.com/anuraghazra/github-readme-stats/issues/1480
 --- &layout=compact
 https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card
 
+- change weights : 
+--- &size_weight=0.5&count_weight=0.5
+https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#language-stats-algorithm
+
+- dark theme :
+--- &theme=tokyonight
+https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#themes
+
+
+
+
+
+
 person who did it right : 
 https://github.dev/yinzixie/yinzixie
-
-general vercel guide for deployment 
-https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s
+https://github.com/Platane
 
 
+
+
+
+
+
+snake : 
+https://github.com/Platane/snk
+
+action output : 
+https://github.com/crazy-max/ghaction-github-pages
