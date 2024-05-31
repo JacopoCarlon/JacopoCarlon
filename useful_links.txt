@@ -1,5 +1,11 @@
-&count_private=true ; token for repos !!!
+- count private languages : 
+--- &count_private=true 
+--- token for repos !!!
 https://github.com/anuraghazra/github-readme-stats/discussions/814
+
+- hide language : 
+--- &hide=Jupyter%20Notebook 
+https://github.com/anuraghazra/github-readme-stats/issues/1480
 
 person who did it right : 
 https://github.dev/yinzixie/yinzixie
