@@ -23,6 +23,13 @@ https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#language-s
 --- &theme=tokyonight
 https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#themes
 
+- change card title : 
+--- &custom_title=CIAO
+https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#customization
+
+- set card height :
+--- &description_lines_count=3
+https://github.com/anuraghazra/github-readme-stats/issues/3159
 
 
 
