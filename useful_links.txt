@@ -1,0 +1,10 @@
+&count_private=true ; token for repos !!!
+https://github.com/anuraghazra/github-readme-stats/discussions/814
+
+person who did it right : 
+https://github.dev/yinzixie/yinzixie
+
+general vercel guide for deployment 
+https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s
+
+
