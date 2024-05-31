@@ -11,10 +11,11 @@
   <img  src="https://github-readme-stats-nine-iota-47.vercel.app/api?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=33" />
 -->
 <!--
-<img  src="https://github-readme-stats-nine-iota-47.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=19&layout=compact&size_weight=0.5&count_weight=0.5&theme=tokyonight" />
+  <img  src="https://github-readme-stats-nine-iota-47.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=33&layout=compact&size_weight=0.1&count_weight=0.9&theme=tokyonight" />
+  <img  src="https://github-readme-stats-nine-iota-47.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=33&layout=compact&theme=tokyonight" />
 -->
 <div align="center">
-    <img  src="https://github-readme-stats-nine-iota-47.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=19&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight" />
+  <img  src="https://github-readme-stats-nine-iota-47.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=33&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight" />
 </div> 
 
 ###
