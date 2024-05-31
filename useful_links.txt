@@ -7,6 +7,10 @@ https://github.com/anuraghazra/github-readme-stats/discussions/814
 --- &hide=Jupyter%20Notebook 
 https://github.com/anuraghazra/github-readme-stats/issues/1480
 
+- layout compact : 
+--- &layout=compact
+https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card
+
 person who did it right : 
 https://github.dev/yinzixie/yinzixie
 
