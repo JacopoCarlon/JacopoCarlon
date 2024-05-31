@@ -11,12 +11,13 @@
     <img  src="https://github-readme-stats-nine-iota-47.vercel.app/api?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=33" />
 -->
 <!--
-    <img  src="https://github-readme-stats-nine-iota-47.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=33&layout=compact&size_weight=0.1&count_weight=0.9&theme=tokyonight" />
     <img  src="https://github-readme-stats-nine-iota-47.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=33&layout=compact&theme=tokyonight" />
-    <img  src="https://github-readme-stats-nine-iota-47.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=33&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight&custom_title=Used%20Languages%20Memory-wise" />
+    
+    <img  src="https://github-readme-stats-nine-iota-47.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=33&layout=compact&theme=tokyonight&custom_title=Most%20Used%20Languages%20Memory-wise&card_width=350" />
+    <img  src="https://github-readme-stats-nine-iota-47.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=33&layout=compact&size_weight=0&count_weight=1&theme=tokyonight" />
 -->
 <div align="center">
-  <img  src="https://github-readme-stats-nine-iota-47.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=33&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight" />
+    <img  src="https://github-readme-stats-nine-iota-47.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=33&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight" />
 </div> 
 
 ###
