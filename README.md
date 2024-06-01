@@ -15,6 +15,7 @@
     
     <img  src="https://github-readme-stats-nine-iota-47.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=33&layout=compact&theme=tokyonight&custom_title=Most%20Used%20Languages%20Memory-wise&card_width=350" />
     <img  src="https://github-readme-stats-nine-iota-47.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=33&layout=compact&size_weight=0&count_weight=1&theme=tokyonight" />
+    <img  src="https://github-readme-stats-nine-iota-47.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=33&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight&exclude_repo=DataBase_Project_UNIPI" />
 -->
 <div align="center">
     <img  src="https://github-readme-stats-nine-iota-47.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=33&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight" />
