@@ -19,7 +19,7 @@
     <img  src="https://github-readme-stats-nine-iota-47.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=33&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight" />
 -->
 <div align="center">
-    <img  src="https://github-readme-stats-three-navy-56.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=33&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight" />
+    <img  src="https://github-readme-stats-three-navy-56.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=33&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </div> 
 
 ###
