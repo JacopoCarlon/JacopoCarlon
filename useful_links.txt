@@ -35,13 +35,19 @@ https://github.com/anuraghazra/github-readme-stats/issues/3159
 
 
 
-- person who did it right : 
+- people who did it right : 
 https://github.dev/yinzixie/yinzixie
 https://github.com/Platane
 
-- cached language cards not updating (there seems to be no practical solution) :
-https://github.com/anuraghazra/github-readme-stats/issues/1073
-https://github.com/anuraghazra/github-readme-stats/issues/935
+
+
+- cache update :
+--- &cache_seconds=1800
+https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#customization
+https://github.dev/predator2v0/predator2v0 (for cache seconds from issue 1073)
+//  //  - cached language cards not updating (there seems to be no practical solution) :
+//  //  https://github.com/anuraghazra/github-readme-stats/issues/1073
+//  //  https://github.com/anuraghazra/github-readme-stats/issues/935
 
 
 
