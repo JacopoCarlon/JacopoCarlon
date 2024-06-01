@@ -35,12 +35,13 @@ https://github.com/anuraghazra/github-readme-stats/issues/3159
 
 
 
-person who did it right : 
+- person who did it right : 
 https://github.dev/yinzixie/yinzixie
 https://github.com/Platane
 
-
-
+- cached language cards not updating (there seems to be no practical solution) :
+https://github.com/anuraghazra/github-readme-stats/issues/1073
+https://github.com/anuraghazra/github-readme-stats/issues/935
 
 
 
