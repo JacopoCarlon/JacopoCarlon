@@ -6,13 +6,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JacopoCarlon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
     <img src="https://github-readme-stats-jet-mu-55.vercel.app/api/top-langs?username=JacopoCarlon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
     <img  src="https://github-readme-stats-jet-mu-55.vercel.app/api?username=JacopoCarlon&show_icons=true&hide_border=true" />
-    github-readme-stats-psi-snowy.vercel.app
-    github-readme-stats-nine-iota-47.vercel.app
     <img  src="https://github-readme-stats-nine-iota-47.vercel.app/api?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=33" />
--->
-<!--
-    <img  src="https://github-readme-stats-nine-iota-47.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=33&layout=compact&theme=tokyonight" />
-    
+    <img  src="https://github-readme-stats-nine-iota-47.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=33&layout=compact&theme=tokyonight" />   
     <img  src="https://github-readme-stats-nine-iota-47.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=33&layout=compact&theme=tokyonight&custom_title=Most%20Used%20Languages%20Memory-wise&card_width=350" />
     <img  src="https://github-readme-stats-nine-iota-47.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=33&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight&exclude_repo=DataBase_Project_UNIPI" />
     <img  src="https://github-readme-stats-nine-iota-47.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=33&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight" />
@@ -21,33 +16,41 @@
     <img  src="https://github-readme-stats-three-navy-56.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=33&layout=compact&size_weight=1&count_weight=0&theme=tokyonight" />
 -->
 <div align="center">
-    <img  src="https://github-readme-stats-three-navy-56.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=80&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight&cache_seconds=180&size_weight=0.5&count_weight=0.5" />
+    <a href="https://github.com/JacopoCarlon">
+        <img  src="https://github-readme-stats-three-navy-56.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=80&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight&cache_seconds=180&size_weight=0.5&count_weight=0.5" />
+    </a>
 </div> 
 
 ###
 
 <!--
-<a href="https://github.com/JacopoCarlon">
-    <img src="https://badges.pufler.dev/visits/JacopoCarlon/JacopoCarlon?style=flat-square&color=black&logo=github">
-</a>
+<div align="center">
+    <a href="https://github.com/JacopoCarlon">
+        <img src="https://badges.pufler.dev/visits/JacopoCarlon/JacopoCarlon?style=flat-square&color=black&logo=github">
+    </a>
+</div>
 -->
 
 <div align="center">
-     <img src="https://komarev.com/ghpvc/?username=JacopoCarlon&style=flat" />
+    <a href="https://github.com/JacopoCarlon">
+        <img src="https://komarev.com/ghpvc/?username=JacopoCarlon&style=flat" />
+    </a>
 </div>
 
 ###
 <br clear="both">
 
 <div align="center">
-  <!--
-      <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JacopoCarlon/JacopoCarlon/output/github-contribution-grid-snake-dark.svg" />
-  -->
+    <a href="https://github.com/JacopoCarlon">
+        <img src= "https://github.com/JacopoCarlon/JacopoCarlon/blob/output/github-contribution-grid-snake.gif" >
+    </a>
 </div>
 
-![snake gif](https://github.com/JacopoCarlon/JacopoCarlon/blob/output/github-contribution-grid-snake.gif)
 
 <!--
+    ![snake gif](https://github.com/JacopoCarlon/JacopoCarlon/blob/output/github-contribution-grid-snake.gif)
+      <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JacopoCarlon/JacopoCarlon/output/github-contribution-grid-snake-dark.svg" />
+
 ![snake gif](https://github.com/JacopoCarlon/JacopoCarlon/blob/output/github-contribution-grid-snake-dark.svg)
 -->
 ###
