@@ -21,7 +21,7 @@
     <img  src="https://github-readme-stats-three-navy-56.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=33&layout=compact&size_weight=1&count_weight=0&theme=tokyonight" />
 -->
 <div align="center">
-    <img  src="https://github-readme-stats-three-navy-56.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=80&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight&cache_seconds=1800&size_weight=0.5&count_weight=0.5" />
+    <img  src="https://github-readme-stats-three-navy-56.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=80&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight&cache_seconds=180&size_weight=0.5&count_weight=0.5" />
 </div> 
 
 ###
