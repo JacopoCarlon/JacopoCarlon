@@ -56,8 +56,16 @@ snake :
 https://github.com/Platane/snk
 
 action output : 
-https://github.com/crazy-max/ghaction-github-pages
+https://github.com/antonkomarev/github-profile-views-counter?tab=readme-ov-file
+https://github.dev/antonkomarev/antonkomarev
 
+
+
+standard badge view count : 
+https://pufler.dev/badge-it/#available-badges-%F0%9F%94%A5
+
+view count : 
+https://github.com/antonkomarev/github-profile-views-counter?tab=readme-ov-file
 
 
 
