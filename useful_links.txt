@@ -57,3 +57,11 @@ https://github.com/Platane/snk
 
 action output : 
 https://github.com/crazy-max/ghaction-github-pages
+
+
+
+
+fork editing : 
+https://github.com/anuraghazra/github-readme-stats/issues/1651
+-   let langsCount = clampValue(parseInt(langs_count), 1, 10); 
+-                 languages(first: 10, orderBy: {field: SIZE, direction: DESC}) {
