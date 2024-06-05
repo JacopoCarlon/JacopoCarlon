@@ -27,8 +27,15 @@
 ###
 
 <!--
-  ![](https://komarev.com/ghpvc/?username=JacopoCarlon)
+<a href="https://github.com/JacopoCarlon">
+    <img src="https://badges.pufler.dev/visits/JacopoCarlon/JacopoCarlon?style=flat-square&color=black&logo=github">
+</a>
 -->
+
+<div align="center">
+     <img src="https://komarev.com/ghpvc/?username=JacopoCarlon&style=flat" />
+</div>
+
 ###
 <br clear="both">
 
