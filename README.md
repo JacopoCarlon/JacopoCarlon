@@ -30,7 +30,6 @@
     </a>
 </div>
 -->
-
 <div align="center">
     <a href="https://github.com/JacopoCarlon">
         <img src="https://komarev.com/ghpvc/?username=JacopoCarlon&style=flat" />
@@ -38,16 +37,12 @@
 </div>
 
 ###
-<br clear="both">
-
 
 <div align="center">
     <a href="https://github.com/JacopoCarlon">
         <img src= "https://github.com/JacopoCarlon/JacopoCarlon/blob/output/github-contribution-grid-snake.svg" >
     </a>
 </div>
-
-
 <!--
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JacopoCarlon/JacopoCarlon/output/github-contribution-grid-snake-dark.svg">
