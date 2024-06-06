@@ -40,17 +40,21 @@
 ###
 <br clear="both">
 
+
 <div align="center">
     <a href="https://github.com/JacopoCarlon">
-        <img src= "https://github.com/JacopoCarlon/JacopoCarlon/blob/output/github-contribution-grid-snake.gif" >
+        <img src= "https://github.com/JacopoCarlon/JacopoCarlon/blob/output/github-contribution-grid-snake.svg" >
     </a>
 </div>
 
 
 <!--
-    ![snake gif](https://github.com/JacopoCarlon/JacopoCarlon/blob/output/github-contribution-grid-snake.gif)
-      <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JacopoCarlon/JacopoCarlon/output/github-contribution-grid-snake-dark.svg" />
-
-![snake gif](https://github.com/JacopoCarlon/JacopoCarlon/blob/output/github-contribution-grid-snake-dark.svg)
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JacopoCarlon/JacopoCarlon/output/github-contribution-grid-snake-dark.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JacopoCarlon/JacopoCarlon/output/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JacopoCarlon/JacopoCarlon/output/github-contribution-grid-snake.svg">
+    </picture>
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JacopoCarlon/JacopoCarlon/output/github-contribution-grid-snake-dark.svg" />
+    ![snake gif](https://github.com/JacopoCarlon/JacopoCarlon/blob/output/github-contribution-grid-snake-dark.svg)
 -->
 ###
