@@ -1,20 +1,10 @@
-# hello, world
+# Hello, world!
 
 ###
 
-<div align="center">
-    <a href="https://github.com/JacopoCarlon">
-        <img  src="https://github-readme-stats-three-navy-56.vercel.app/api/top-langs?username=JacopoCarlon&show_icons=true&hide_border=true&count_private=true&langs_count=80&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight&cache_seconds=300&size_weight=0.5&count_weight=0.5" />
-    </a>
-</div> 
-
-###
-
-<!--
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=jkami99" />
+  <img src="imgSnapshots/JCarlonGithub_2026_03_19.svg" alt="Alt text" />
 </p>
--->
 
 ###
 
